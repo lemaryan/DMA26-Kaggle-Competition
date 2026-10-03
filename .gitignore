@@ -1,0 +1,4 @@
+# this is used to ignore certain files
+# .DS_Store is a file that macOS automatically creates to remember the file location
+
+.DS_Store
